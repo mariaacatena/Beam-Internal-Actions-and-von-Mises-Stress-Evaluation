@@ -8,7 +8,7 @@ This project computes the support reactions, internal actions, and equivalent vo
 -	Allow the user to define any number of bending and torsional couples.
 -	Compute reaction forces and moments at the fixed support.
 -	Compute internal actions along the beam.
--	Cormpute normal, shear, bending, and torsional stresses.
+-	Compute normal, shear, bending, and torsional stresses.
 -	Compute equivalent von Mises stress using the Huber–von Mises criterion
 
 ## Methodology
