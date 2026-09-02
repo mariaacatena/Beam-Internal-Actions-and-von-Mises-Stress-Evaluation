@@ -1,0 +1,1 @@
+# Beam-Internal-Actions-and-von-Mises-Stress-Evaluation
